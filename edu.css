@@ -1,0 +1,30 @@
+
+body {
+    background-image: url('images/wallpaper/wallpaper7.jpg') 
+}
+
+body
+ h4 {
+        text-align: left;
+        justify-content: center;
+        color: white;
+    } 
+
+    body
+    h1 {
+        color: white;
+        text-align: center;
+    }
+
+body
+li {
+    font-size: 30px;
+}
+
+body
+    img {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            border-style: groove;
+    }

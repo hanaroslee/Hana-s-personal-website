@@ -1,0 +1,36 @@
+body 
+    {
+        background-color: #585757;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 100%;
+        color: white;
+        text-align: center;
+    }
+
+    body 
+    {
+        background-image: url('images/wallpaper/wallpaper4.jpg');
+    }
+
+    body
+        div {
+            text-align: justify;
+            text-justify: inter-word;
+          }
+
+body
+        table, th, td {
+     border: 1px solid purple	;
+     border-collapse: collapse;
+}
+        th, td {
+    background-color: #9867C5	;
+    color: rgb(247, 234, 247);
+}
+
+body
+        #fixed {
+         position: fixed;
+         bottom: 0px;
+        right: 0px;
+}   
